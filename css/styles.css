@@ -1,0 +1,11 @@
+#letter {
+  display: none;
+}
+
+.center {
+  text-align: center;
+}
+
+.box-width {
+  width: 25%;
+}
