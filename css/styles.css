@@ -9,3 +9,12 @@
 .box-width {
   width: 25%;
 }
+
+.letter-box {
+  width: auto;
+  height: auto;
+  padding: 5px;
+  box-sizing: border-box;
+  border: solid grey;
+  background-color: whitesmoke;
+}
